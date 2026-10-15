@@ -1,6 +1,19 @@
 {
-  "slug": "torrentscope-torrent-search",
-  "url": "https://torrentscope-search-n5vz.arcada.app/",
-  "title": "TorrentScope Search",
-  "desc": "أداة البحث وتحميل التورنت."
+  "name": "torrentscope-torrent-search",
+  "title": "TorrentScope — أداة البحث وتحميل التورنت",
+  "category": "بحث وتحميل",
+  "description": "أداة البحث في التورنت وتجميع روابط التحميل. للاستخدام القانوني فقط.",
+  "liveUrl": "https://torrentscope-search-n5vz.arcada.app",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "TorrentScope — ابونواف",
+  "originalDescription": "",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-M26aogja.js",
+    "assets/index-C96webBR.css"
+  ]
 }
