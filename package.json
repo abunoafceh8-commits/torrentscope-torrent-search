@@ -1,0 +1,6 @@
+{
+  "name": "torrentscope-torrent-search",
+  "private": true,
+  "type": "module",
+  "license": "MIT"
+}
